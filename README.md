@@ -16,11 +16,22 @@ A feature-rich tower defense game built with Java. Register, log in, pick your b
   - 🟢 **Easy** — More starting gold, weaker enemies — great for learning the ropes
   - 🟡 **Medium** — Balanced resources and enemy strength for a fair challenge
   - 🔴 **Hard** — Limited gold, tougher enemies — only for the brave
-- **Multiple Tower Types** — Various towers with unique stats and abilities
+- **Multiple Tower Types** — 4 different towers ($100 – $300) with unique stats and abilities
 - **Diverse Enemies** — Different enemy types with varying speed, health, and behavior
 - **Wave System** — Survive increasingly difficult waves of enemies
 - **Resource Management** — Earn and spend currency wisely to build and upgrade defenses
 - **High Score Leaderboard** — Top scores displayed on the main screen — see how you rank against other players
+
+## 📸 Screenshots
+
+### Main Menu
+![Main Menu](screenshots/01_main_menu.png)
+
+### Map Selection
+![Map Selection](screenshots/02_map_selection.png)
+
+### Gameplay
+![Gameplay 1](screenshots/03_gameplay_1.png)
 
 ## 🛠️ Tech Stack
 
@@ -57,10 +68,6 @@ TowerDefenseJava/
 2. Open the project in NetBeans
 3. Click **Run** ▶️
 4. Register a new account and start playing!
-
-## 📸 Screenshots
-
-*Coming soon*
 
 ## 📄 License
 
